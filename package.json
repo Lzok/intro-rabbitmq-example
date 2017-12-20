@@ -1,0 +1,15 @@
+{
+  "name": "intro-rabbitmq",
+  "version": "1.0.0",
+  "description": "This is a simple example with RabbitMQ. In this project we will connect with RabbitMQ, publish a message and consume it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Echevarria Leandro <echevarrialeandro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
